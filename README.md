@@ -15,4 +15,4 @@ Introducting Interactive Illusion. An optical illusion application that allows y
 
 # Videos
 
-![img](https://media.giphy.com/media/f7MvErw69arljdVVpx/source.mov)
+![img](https://media.giphy.com/media/f7MvErw69arljdVVpx/giphy.gif)
